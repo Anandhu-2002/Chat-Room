@@ -1,6 +1,6 @@
 /* font-family: 'Poppins', sans-serif; */
 :root{
-    --light-blue:#2791cf;
+    --light-blue:#41aae7;
     --light-gray:#7E878c;
     --dark-gray:#242121;
     --white:#ffffff;
@@ -107,7 +107,7 @@ div.message{
     color: var(--dark-gray);
     background-color: var(--white);
     padding: 5px 15px;
-    max-width: 400px;
+    max-width: 300px;
     margin-bottom:15px ;
     border-radius: 10px 50px 50px 10px;
 
@@ -174,7 +174,7 @@ div.user-input button{
         display: none;
     }
     div.message{
-        max-width: 300px;
+        max-width: 200px;
     }
     
 }
